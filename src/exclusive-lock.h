@@ -1,0 +1,4 @@
+#ifndef EXCLUSIVELOCK_H
+#define EXCLUSIVELOCK_H
+
+#endif // EXCLUSIVELOCK_H
